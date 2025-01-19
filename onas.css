@@ -1,0 +1,265 @@
+@font-face {
+	font-family: 'bobas'; 
+	src: url(font.ttf); 
+}
+
+* {
+    margin: 0;
+
+    text-decoration: none;
+}
+
+main {
+    width: 1920px;
+    margin: 0 auto;
+}
+
+nav {
+    width: 1920px;
+    height: 105px;
+    display: flex;
+    background-color: #101010;
+}
+
+.logo {
+    margin-left: 359px;
+    margin-top: 28px;
+}
+
+.velos {
+    font-family: inter;
+    font-size: 20px;
+    color: #FFFFFF;
+    transition: all 1s;
+}
+
+.velos:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.zap {
+    font-family: inter;
+    font-size: 20px;
+    margin-left: 32px;
+    color: #FFFFFF;
+    transition: all 1s;
+}
+
+.zap:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.eki {
+    font-family: inter;
+    font-size: 20px;
+    margin-left: 32px;
+    color: #FFFFFF;
+    transition: all 1s;
+}
+
+.eki:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.aks {
+    font-family: inter;
+    font-size: 20px;
+    margin-left: 32px;
+    color: #FFFFFF;
+    transition: all 1s;
+}
+
+.aks:hover {
+    transform: scale(2);
+    color: orange;
+}
+
+.nad {
+    width: 600px;
+    height: 30px;
+    margin-top: 43px;
+    margin-left: 333px;
+}
+
+.tg {
+    margin-top: 45px;
+    margin-left: 232px;
+}
+
+.vk {
+    margin-top: 45px;
+    margin-left: 59px;
+}
+
+.onas {
+    width: 1920px;
+    height: 450px;
+    background-color: #1e1e1e;
+    display: flex;
+    flex-direction: column;
+}
+
+.nac {
+    width: 308px;
+    height: 79px;
+    margin-top: 75px;
+    margin-left: 320px;
+    color: #FFFFFF;
+    font-size: 64px;
+    font-family: bobas;
+}
+
+.tekst {
+    width: 600px;
+    height: 200px;
+    margin-top: 25px;
+    margin-left: 320px;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-family: inter;
+}
+
+.blok4 {
+    background-color: #101010;
+    width: 1920px;
+    height: 548px;
+    display: flex;
+    flex-direction: column;
+}
+
+.logoc {
+    margin-top: 92px;
+    margin-left: 318px;
+}
+
+.comp {
+    width: 289px;
+    height: 78px;
+    margin-top: 64px;
+    margin-left: 318px;
+    color: #B3B3B3;
+    font-family: inter;
+    font-size: 16px;
+}
+
+.world {
+    width: 1282px;
+    height: 35px;
+    margin-top: 208px;
+    margin-left: 318px;
+    color: #777777;
+    font-family: inter;
+    font-size: 16px;
+    border-top: #34312D 1px solid;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.full {
+    width: 219px;
+    height: 222px;
+    display: flex;
+    flex-direction: column;
+    margin-top: -180px;
+    margin-left: 760px;
+}
+
+.kote {
+    transition: all 0.5s;
+    font-family: inter;
+    width: 97px;
+    height: 38px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.kote:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.kote1 {
+    transition: all 0.5s;
+    font-family: inter;
+    width: 97px;
+    height: 26px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 32px;
+}
+
+.kote1:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.kote2 {
+    transition: all 0.5s;
+    font-family: inter;
+    width: 97px;
+    height: 26px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+
+.kote2:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.dla {
+    width: 219px;
+    height: 180px;
+    display: flex;
+    flex-direction: column;
+    margin-top: -220px;
+    margin-left: 1190px;
+}
+
+.dli {
+    transition: all 0.5s;
+    font-family: inter;
+    width: 151px;
+    height: 38px;
+    font-size: 24px;
+    color: #FFFFFF;
+}
+
+.dli:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.dli1 {
+    transition: all 0.5s;
+    font-family: inter;
+    width: 44px;
+    height: 26px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 32px;
+}
+
+.dli1:hover {
+    transform: scale(1.1);
+    color: orange;
+}
+
+.dli2 {
+    transition: all 0.5s;
+    font-family: inter;
+    width: 73px;
+    height: 26px;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 16px;
+}
+
+.dli2:hover {
+    transform: scale(1.1);
+    color: orange;
+}
